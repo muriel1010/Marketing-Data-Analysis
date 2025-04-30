@@ -6,7 +6,7 @@ We used the VADER sentiment analysis tool from the NLTK library to classify each
 
 ### Files:
 - `customer_reviews_enrichment.py`: The script used to clean the text and apply sentiment scoring.
-- `customer_reviews_with_sentiment`: The resulting dataset containing the original reviews with sentiment labels. This file was later imported into Power BI for visualization and analysis.
+- `customer_reviews_with_sentiment.csv`: The resulting dataset containing the original reviews with sentiment labels. This file was later imported into Power BI for visualization and analysis.
 
 ### Tools Used:
 - Python
