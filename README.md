@@ -48,7 +48,7 @@ ShopEasy, an online retail business, has been facing a decline in customer engag
 ShopEasy-Marketing-Analysis/
 │
 ├── /sql_queries/           # SQL scripts for feature engineering and KPIs
-├── /notebooks/             # Python scripts for sentiment analysis
-├── /presentations/         # Business case and final insights (PPT)
-├── /visuals/               # Screenshots of Power BI dashboards
+├── /Sentiment_analysis_python/             # Python scripts for sentiment analysis
+├── /documentation/         # Business case and final insights (PPT)
+├── /visuals_PowerBI/               # Screenshots of Power BI dashboards
 └── README.md               # Project overview and methodology
