@@ -1,18 +1,18 @@
-# 📊 ShopEasy Marketing Campaign Analysis
+#  ShopEasy Marketing Campaign Analysis
 
-## 🧠 Business Problem
+##  Business Problem
 
 ShopEasy, an online retail business, has been facing a decline in customer engagement and conversion rates despite launching several new marketing campaigns. The marketing team has reached out for data-driven support to better understand what’s going wrong and how to optimize their efforts.
 
 ### Pain Points:
-- 📉 **Reduced Customer Engagement** – Fewer users are interacting with the platform and content.
-- 💸 **Low Conversion Rates** – Decline in the percentage of visitors turning into buyers.
-- 💰 **High Marketing Spend** – Costs are rising without the expected return on investment.
-- 🗣️ **Unanalyzed Customer Feedback** – Valuable customer reviews and social media comments remain underutilized.
+-  **Reduced Customer Engagement** – Fewer users are interacting with the platform and content.
+-  **Low Conversion Rates** – Decline in the percentage of visitors turning into buyers.
+-  **High Marketing Spend** – Costs are rising without the expected return on investment.
+-  **Unanalyzed Customer Feedback** – Valuable customer reviews and social media comments remain underutilized.
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 
 1. **Increase Conversion Rates**  
    - Identify drop-off points and suggest improvements in the marketing funnel.
@@ -25,7 +25,7 @@ ShopEasy, an online retail business, has been facing a decline in customer engag
 
 ---
 
-## 📈 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 
 - **Conversion Rate** – % of website visitors who make a purchase  
 - **Engagement Rate** – Interactions with content (clicks, likes, comments)  
@@ -34,7 +34,7 @@ ShopEasy, an online retail business, has been facing a decline in customer engag
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **SQL Server Management Studio** – For data extraction, cleaning, and feature engineering  
 - **Python (NLTK, VADER)** – For sentiment analysis on customer reviews and social media comments  
@@ -42,7 +42,7 @@ ShopEasy, an online retail business, has been facing a decline in customer engag
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```bash
 ShopEasy-Marketing-Analysis/
